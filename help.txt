@@ -1,0 +1,14 @@
+theme:
+http://jekyllbootstrap.com/usage/jekyll-theming.html
+
+1. install theme:
+open git bash to run following command:
+1) install by url:
+$ rake theme:install git="https://github.com/jekyllbootstrap/theme-the-program.git"
+2)  If you have obtained a Theme Package in another way, such as zip download, you can manually place it into your ./_theme_packages folder and then run the installer with the name of the theme.
+$ rake theme:install name="THEME-NAME"
+
+
+2. Switch Themes
+1) $ rake theme:switch name="the-program"
+# for 0.1.0 users `rake switch_theme` still works.
