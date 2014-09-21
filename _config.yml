@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Andy's Blog - 羚羊挂角 无迹可寻
-tagline: Site Tagline
+title : Andy's Blog
+tagline: 羚羊挂角 无迹可寻
 author :
   name : Andy Xie
   email : andyxie@gmail.com	

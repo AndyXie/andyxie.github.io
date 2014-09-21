@@ -1,6 +1,7 @@
 ---
 layout: page
-title: !
+title: 首页
+tagline: ""
 ---
 {% include JB/setup %}
 
