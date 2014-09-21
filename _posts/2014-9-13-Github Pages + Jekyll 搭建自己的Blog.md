@@ -1,19 +1,18 @@
 ---
 layout: post
 category : lessons
-tagline: "自己的Blog"
 tags : [jekyll, 教程]
+keywords: jekyll, github pages, blog
+description: 使用github + jekyll搭建属于自己的blog
 ---
 {% include JB/setup %}
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
 
-<p></p>
-
 ## Overview
 
 ### What is Jekyll?
-
+<!--break-->
 Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
 dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as "a simple, blog aware, static site generator".
 
